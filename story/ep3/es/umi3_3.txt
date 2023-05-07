@@ -1,29 +1,29 @@
 `Sin siquiera permitirnos esperar al postre, nos echaron de la sala.`
-`He oído que, al final, nuestros padres no consiguieron que el abuelo respondiera.`
-`...Well, I'm not sure I should be saying this, but I feel like Grandfather deserves a pat on the back.`
-`He had to be feeling pretty satisfied with the shock his strange letter had given to his children, who had all been so infatuated with distributing the inheritance while he was still alive.`
-`I too felt like our despicable parents had gotten what they deserved in all of this confusion.`
-`......But I couldn't really say that I was feeling great.`
-`{n}I felt all sulky.`
-`Grandfather hadn't entertained them for a moment, but he also apparently hadn't denied anything about the letter.`
-`Grandfather's name pops up several times in the witch's letter.`
-`If Grandfather knew that someone was stealing his name, then considering his character, he would probably be mad with rage.`
-`But even though Grandfather now knew the contents of that letter, he had coolly ignored it.`
-`In this case, did that count as a silent yes?`
-`Auntie Eva and Dad had been trying to interpret the letter in their favor, their greed clearly visible.`
-`It wouldn't have mattered so much if that was all, but the adults had then started focusing on Maria, who had received the letter.`
-` They kept pounding her with questions about who had given her that letter.`
-`Maria repeated over and over again that she had gotten it from {f:5:Beatrice}, but there was no way a mysterious person like that could be mixed in with the others on this island.`
-`...After all, this is a small island where no one lives except the Ushiromiya family.`
-`Maria kept repeating that she had gotten it from {f:5:Beatrice}, no matter how many times she was asked.`
-`It seemed that the adults felt that she was trying to trick them, so they didn't hold back, and questioned her until she broke out in tears...`
-`By the time Maria was released, she had cried herself to the point of exhaustion.`
-`Our parents ordered us to go to the guesthouse and take Maria with us,`
-` then shut themselves up in the dining hall, and started getting louder and louder as they discussed the inheritance.`
-`It seemed that, because of that strange letter, the possibility had arisen that Uncle Krauss's ability to become the next head could be returned to a blank slate,`
-` and in exchange for accepting him, my dad and the rest were trying to swindle Uncle Krauss out of a lot of money...or something like that.`
-`Jessica and I, both astonished, were happy to move over to the guesthouse.`
-`We didn't want to be under the same roof as those filthy adults, their heads so filled with thoughts about money.`
+`He oído que, al final, nuestros padres no consiguieron que el abuelo respondiese.`
+`... Bueno, no sé si debería decir esto, pero creo que el abuelo se merece una palmadita en la espalda.`
+`Él probablemente estaba bastante satisfecho con el buen sobresalto de sus hijos al recibir esa carta, ya que todos ellos habían estado tan encaprichados con la distribución de la herencia mientras el abuelo estaba aún con vida.`
+`También siento que nuestros despreciables padres habían recibido su merecido por toda esta confusa situación.`
+`... Pero no puedo decir que me sienta bien.`
+`{n}Estoy malhumorado.`
+`Aparentemente, el abuelo no parecía preocupado por todo el asunto, pero tampoco había negado nada sobre la carta.`
+`El nombre del abuelo aparece varias veces en la carta de la bruja.`
+`Si el abuelo supiera que alguien más está usando su nombre, teniendo en cuenta su carácter, probablemente se volvería loco de rabia.`
+`Sin embargo, a pesar de que el abuelo ahora conocía el contenido de esa carta, la había ignorado fríamente.`
+`En este caso, ¿eso contaría como un silencioso sí?`
+`La tía Eva y papá habían estado intentando interpretar la carta a su favor, dejando en evidencia su avaricia.`
+`No hubiese importado tanto si eso fuera todo, pero los adultos ahora habían empezado a concentrarse en María, quien había recibido la carta.`
+` No paraban de preguntarle quién le había dado esa carta.`
+`María repitió una y otra vez que lo había obtenido de {f:5:Beatrice}, pero no había forma de que tan misteriosa persona se hubiera infiltrado en la isla.`
+`... Después de todo, ésta es una pequeña isla donde no vive nadie excepto la familia Ushiromiya.`
+`María seguía repitiendo que se lo había dado {f:5:Beatrice}, sin importar cuántas veces se lo preguntaran.`
+`Al parecer los adultos sintieron que ella estaba tratando de engañarlos, así que no se contuvieron y la interrogaron hasta que rompió en llanto...`
+`Cuando por fin dejaron a Maria, ella estaba sollozando, toda desgastada por el llanto.`
+`Después de que nuestros padres nos ordenaron ir a la casa de huéspedes y llevarnos a María con nosotros,`
+` se encerraron en el comedor y empezaron a discutir cada vez más fuerte sobre la herencia.`
+`Parecía que, por culpa de esa extraña carta, surgía la posibilidad de que el tío Krauss ya no sea próximo líder,`
+` y que, para reconocerlo, mi papá y los demás estaban intentando conseguir una gran cantidad de dinero... o algo parecido.`
+`Jessica y yo, asombrados, estuvimos felices de irnos a la casa de huéspedes.`
+`No queríamos compartir techo con esos adultos avariciosos, cuyas mentes solo estaban obsesionadas con el dinero.`
 `George‐aniki pleaded on behalf of our parents, saying that he wanted us to understand them.`
 `...I understood his reasoning.`
 ` No matter how filthy this talk of money was, it wouldn't go away if you just closed your eyes to it.`
