@@ -1,62 +1,62 @@
 `"... Ya veo...`
-` So, not a witch, but a mistress by the name of {f:5:Beatrice} did exist on the island..."`
-`"......So there can be more than 18 people!`
-` Which means I can defeat that line of reasoning which says that, if it was impossible for all 18 people, it must be a crime involving magic.`
-` ......That's some big information."`
-`"Excuse me.`
-` Battler‐sama, would you care for some black tea and cookies?"`
-`Beato's butler, who called himself Ronove, appeared out of nowhere in particular.`
-`Placed upon the silver tray that he held was a plate filled with delicious‐looking, steaming black tea and cookies.`
-`...I really don't like this guy's smile.`
-`{n}For some reason, it doesn't look like a smile used to warmly greet a guest.`
-`{n}It feels like he's making fun of me for some reason.`
-`...I don't know whether he really takes me for an idiot,`
-` or whether it's just a joke or something, but it's really irritating me.`
-`"......I don't want any.`
-` I'm busy right now.`
-` Leave me alone."`
-`"Oh, my.`
-` That is a shame, when the cookies have turned out oh so very delicious.`
-` Cooked so wonderfully it is a shame to waste them on a simple {y:0:Human}{n:0:human}, truly wonderful cookies."`
-`"I'll eat some when I feel like it.`
-` Set it down somewhere over there and get out of here."`
-`"Will that be acceptable?`
-` Then I shall do so.`
-` You may eat them when they get cold and stale, and then regret as much as you like that you did not eat them when they were freshly baked."`
-`".........You really are annoying.`
-` ...Well, you're a lot better than that Beato, who keeps doing that creepy cackle right next to my ear."`
-`"Oh, yes, yes, that is quite true.`
-` There are times when Milady's laughter becomes quite undignified.`
-` Every time I hear it, I think of my noble rank,`
-` and struggle to comprehend why I must have such a person as my master.`
+` Así que no se trataba de una bruja, sino de una amante que vivió en esta isla llamada {f:5:Beatrice}..."`
+`"... ¡Por lo que podría haber más de 18 personas!`
+` Lo que significa que puedo derrotar esa línea de razonamiento que dice que, si fuese imposible para todas las 18 personas, sería un crimen que implica que implica magia.`
+` ... Esa información es muy importante."`
+`"Disculpe.`
+` Battler‐sama, ¿qué tal algo de té negro y galletas?"`
+`El mayordomo de Beato, que se llamaba a sí mismo Ronove, apareció de la nada.`
+`Sobre la bandeja de plata que sostenía había un plato lleno de galletas y un humeante té negro de aspecto delicioso.`
+`... No me gusta para nada la sonrisa de este tipo.`
+`{n}Por alguna razón, no parece una sonrisa usada para saludar cordialmente a un invitado.`
+`{n}Siento como si se burlara de mí por alguna razón.`
+`... No sé si él realmente me toma por idiota,`
+` o si es solo una broma o algo, pero me está irritando de verdad.`
+`"... No quiero nada.`
+` Estoy ocupado ahora.`
+` Déjame en paz."`
+`"Oh, vaya.`
+` Qué pena, las galletas están muy deliciosas.`
+` Cocinadas tan maravillosamente que sería una pena desperdiciarlas en un simple humano, de verdad que son unas galletas maravillosas."`
+`"Comeré algunas cuando me apetezca.`
+` Déjalas por ahí y vete de aquí."`
+`"¿Será eso aceptable?`
+` Entonces eso haré.`
+` Puede comérselas cuando estén frías y duras, y luego lamentarse cuanto quiera de no habérselas comido cuando estaban recién horneadas."`
+`"... Eres muy molesto.`
+` ... Bueno, eres mucho mejor que esa Beato, que siempre está haciendo esa escalofriante risa  justo al lado de mi oreja."`
+`"Oh, sí, sí, eso es muy cierto.`
+` Hay momentos en los que la risa de la señorita se vuelve bastante indigna.`
+` Cada vez que la escucho, pienso en mi noble rango,`
+` y me resulta doloroso comprender por qué alguien como yo tiene a una persona así como su ama.`
 ` Pu ku ku ku..."`
-`"......Man you're weird.`
-` If you don't like it, then couldn't you just not work for her?"`
-`"To continue serving despite that is furniture's joy.`
-` One could not serve as furniture without such an attitude."`
-`"......Let us set that aside.`
-` How has the game been proceeding?`
-` Just now, I believe I heard you say that you had found some good information, and were quite pleased by it.`
-` Well now, I wonder what your shallow wit has thought up."`
-`As Ronove made fun of me and giggled,`
-` he followed my earlier words to the letter and placed the black tea and cookies somewhere arbitrary nearby.`
-`"......I imagine it is because you have gained increased confidence in the existence of a 19th person?`
-` Would you be gracious enough to allow me to hear your opinion?"`
-`"..................`
-` ......Yeah, sure.`
-` I'm just going to say it again in front of Beato anyway.`
-` No reason to hide it."`
-`"......Alright.`
-` It looks like there's a hidden mansion somewhere on this island, and that Grandfather had his mistress living there.`
-` In that case, the question that's been torturing me, about whether there are 18 or 19 people, can be easily resolved."`
-`"Although you deny witches,`
-` you hold a double standard by refusing to seek a culprit among the 18, and have driven yourself into a dead‐end."`
-`"...The easiest way to deny the witch would be to doubt one of the 18.`
-` ......It's not so easy for every one of the 18 to have an alibi.`
-` You always find at least one person with a fragile alibi.`
-` ......I could probably continue to deny the witch forever if I just used that person as a sacrifice."`
-`"However, I will steadfastly refuse to do that!!`
-` Yeah, that's no good, that's no goddamn good at all!`
+`"... Sí que eres raro.`
+` Si no te gusta, ¿por qué no puedes simplemente dejar de trabajar para ella?"`
+`"Seguir sirviendo a pesar de eso es la dicha de los muebles.`
+` Si no lo hiciéramos, no funcionaríamos como tales."`
+`"... Dejemos eso a un lado.`
+` ¿Cómo ha estado avanzando el juego?`
+` Hace un momento, creo que le escuché decir que había encontrado una buena información, y estaba complacido por eso.`
+` Me pregunto qué se le ha ocurrido con su superficial ingenio."`
+`Mientras Ronove se burlaba de mí y se reía,`
+` siguió mis instrucciones al pie de la letra y colocó el té negro y las galletas en un lugar cercano.`
+`"... De todos modos, parece que está ahora más confiado con respecto a la existencia de la decimonovena persona, ¿cierto?`
+` ¿Sería tan amable de permitirme escuchar su opinión?"`
+`"...`
+` Sí, seguro.`
+` La diré de nuevo frente a Beato de todos modos.`
+` No hay razón para esconderla."`
+`"... Está bien.`
+` Parece que hay una mansión oculta en algún lugar de esta isla, y que el abuelo tenía a su amante viviendo allí.`
+` En ese caso, la pregunta que me ha estado atormentando sobre si hay 18 o 19 personas puede resolverse facilmente."`
+`"Aunque usted niega a las brujas,`
+` se ha quedado atrapado en un callejón sin salida por su propia cuenta al negarse a buscar al culpable entre uno los 18 personas."`
+`"... La manera más fácil de negar la existencia de las brujas sería dudar de una de las 18 personas.`
+` ... No es tan fácil para cada uno de los 18 tener una coartada.`
+` Siempre encuentras al menos una persona con una coartada poco sólida.`
+` ... Yo podría negar a la bruja para siempre si usase a una persona como sacrificio."`
+`"Sin embargo, ¡¡me niego a hacer eso!!`
+` ¡Aah, es inútil, es totalmente inútil!`
 ` Every one of those 18 people is either a parent, a relative or a cousin to me!`
 ` And those reliable servants, who are sometimes serious and sometimes funny.`
 ` I won't let myself use any one of them as a sacrifice!!"`
